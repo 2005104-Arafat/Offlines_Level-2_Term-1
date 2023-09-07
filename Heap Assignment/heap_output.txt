@@ -1,0 +1,71 @@
+INSERTED 7
+INSERTED 10
+INSERTED 5
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5 
+Level 1: 10 7 
+
+- - - - - - - - - - - - - - - - - - - -
+INSERTED 12
+INSERTED 15
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5 
+Level 1: 10 7 
+Level 2: 12 15 
+
+- - - - - - - - - - - - - - - - - - - -
+15 decreased to 3
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 3 
+Level 1: 5 7 
+Level 2: 12 10 
+
+- - - - - - - - - - - - - - - - - - - -
+FindMin returned 3
+ExtractMin returned 3
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5 
+Level 1: 10 7 
+Level 2: 12 
+
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 5
+ExtractMin returned 7
+ExtractMin returned 10
+ExtractMin returned 12
+ExtractMin returned 12
+ExtractMin returned 134258502
+ExtractMin returned 1234721191
+ExtractMin returned 50463490
+ExtractMin returned 50463490
+ExtractMin returned 50463490
+ExtractMin returned 50463490
+FindMin returned 50463490
+FindMin returned 50463490
+FindMin returned 50463490
+FindMin returned 50463490
+FindMin returned 50463490
+FindMin returned 50463490
+10 decreased to 3
+13 decreased to 3
+16 decreased to 3
+17 decreased to 3
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - -
+Max Heap:
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - -
+After sorting : 
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - -
+Sorted Array : 

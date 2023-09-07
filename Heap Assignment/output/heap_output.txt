@@ -1,0 +1,11 @@
+Max Heap:
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - -
+After sorting : 
+Printing the binary heap ...
+- - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - -
+Sorted Array : 
